@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.zuul</groupId>
-  <artifactId>zuul</artifactId>
+  <artifactId>ldzuul</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>zuul</name>
+  <name>ldzuul</name>
   <url>http://maven.apache.org</url>
 
     <!-- Spring Boot 启动父依赖 -->
@@ -92,7 +92,7 @@
     </dependencies>
 
     <build>
-        <finalName>zuul</finalName>
+        <finalName>ldzuul</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
